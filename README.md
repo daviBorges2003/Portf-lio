@@ -2,7 +2,7 @@
 
 Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido com o objetivo de apresentar um pouco sobre mim, minhas habilidades, tecnologias que domino e alguns dos projetos nos quais venho trabalhando.
 
----
+
 ## Tecnologias Utilizadas 🚀
 
 - **Frontend:** React, Next.js, TailwindCSS, TypeScript
@@ -10,7 +10,6 @@ Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido com o objetiv
 - **Dark Mode:** Tema escuro e claro com toggle
 - **Hospedagem:** Vercel
 
----
 
 ## Funcionalidades 🔧
 
@@ -20,25 +19,22 @@ Bem-vindo ao meu portfólio pessoal! Este projeto foi desenvolvido com o objetiv
 - Seções organizadas: Home, Sobre, Tecnologias, Projetos
 - Código limpo e modular usando componentes funcionais
 
----
 
 ## Estrutura de Pastas 📂 
 
-├── public/
-├── src/
-│ ├── app
-│ ├── assets/
-│ ├── components/
-│ ├── context/
-│ ├── data/
-│ ├── hooks 
-│ ├── utils/
-├── .gitignore
-├── README.md
-├── tailwind.config.js
-└── tsconfig.json
-
----
+├── public/ <br>
+├── src/ <br>
+│ ├── app <br>
+│ ├── assets/ <br>
+│ ├── components/ <br>
+│ ├── context/ <br>
+│ ├── data/ <br>
+│ ├── hooks  <br>
+│ ├── utils/ <br>
+├── .gitignore <br>
+├── README.md <br>
+├── tailwind.config.js <br>
+└── tsconfig.json <br>
 
 ## Seções do Portfólio 📸 
 
@@ -55,7 +51,6 @@ Caso queira conversar ou colaborar em algum projeto:
 - 📧 E-mail: davi.dePaula@outlook.com.br
 - 💻 [GitHub](https://github.com/daviBorges2003)
 
----
 ## Licença 📝
 
 Este projeto é de uso pessoal e open-source. Fique à vontade para utilizar como base, dando os devidos créditos. ✌️

@@ -30,6 +30,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="icon" type="image/svg" href="/icon.svg" />
+      </head>
       <body
         className={`${roboto.variable} ${roboto_mono.variable} ${poppins.variable} ${inter.variable} antialiased`}
       >
